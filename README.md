@@ -9,7 +9,7 @@
 -
 -
 -
-- dashboard interaction <a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/Book1_17788051728160/Dashboard1?publish=yes">view dashboard</a>
+- <a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/Book1_17788051728160/Dashboard1?publish=yes">View Dashboard</a>
 
 ## Process
 -
