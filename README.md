@@ -4,8 +4,7 @@
 
 
 ## Dataset Used
-<a href="">Customer Complaint Dataset</a>  
-<a href="">State Mapping Dataset</a>
+<a href="https://github.com/YZzz10/Credit-Card-Complaint-Dashboard/blob/main/Credit%20Card%20Data.xlsx">Credit Card Dataset</a>
 
 ## KPI Metrics
 - Total number of complaint records.
