@@ -1,4 +1,4 @@
-# Credit-Card-Complaint-Dashboard
+# Credit Card Complaints Dashboard
 
 ## Project Objective
 
