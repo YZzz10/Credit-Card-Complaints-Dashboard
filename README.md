@@ -8,7 +8,7 @@
 <a href="">State Mapping Dataset</a>
 
 ## KPI Metrics
-- Total number of complaint records (2015–2021).
+- Total number of complaint records.
 - Number of complaints within the last 12 months based on the most recent available date in the dataset.
 - Number of complaints marked as timely responses.
 - Percentage of complaints marked as timely responses relative to total records.
