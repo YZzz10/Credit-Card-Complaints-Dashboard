@@ -30,7 +30,7 @@ The objective of this project is to analyze complaint patterns across time, geog
 - Missing values were handled within the dashboard by excluding null entries to ensure clarity and accuracy in the charts.
 
 ## Dashboard
-<img width="1600" height="900" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/02fc4132-1671-4687-b283-8d8d4d2194ad" />
+<img width="1600" height="900" alt="Screenshot 2026-05-29 at 5 11 17 PM" src="https://github.com/user-attachments/assets/5483e4b6-2069-4f6c-bf74-66ec3226ed0f" />
 
 ## Project Insight
 -
