@@ -33,11 +33,12 @@ The objective of this project is to analyze complaint patterns across time, geog
 <img width="1600" height="900" alt="Screenshot 2026-05-29 at 5 11 17 PM" src="https://github.com/user-attachments/assets/5483e4b6-2069-4f6c-bf74-66ec3226ed0f" />
 
 ## Project Insight
-- A total of 86,893 complaints were received from Dec 2015 to Apr 2021, with 20,202 complaints recorded in the most recent 12-month period based on the most recent available date in the dataset.
-- 98.90% of complaints received timely responses, 99.84% were closed, and only 0.38% remain in progress.
-- The most common issue was billing disputes (24.65%), followed by Other (15.19%) and Identity theft/Fraud/Embezzlement (13.84%).
-- California recorded the highest number of complaints (12,102), followed by New York (8,175), Florida (7,438), and Texas (5,625).
-- The majority of complaints were submitted via web (68.92%), followed by referral (16.58%) and phone (7.48%).
+
+- There was a noticeable spike in complaint volume between XX and XX (Month Year to Month Year). During this period, the timely response rate slightly declined, suggesting reduced operational efficiency under higher workload. This indicates that sustained periods of above-normal complaint volume may require additional staffing capacity to maintain service levels and protect response times.
+- When analyzing complaints by day of the week, Thursday and Friday consistently show lower volumes, while the remaining days exhibit relatively higher and more stable complaint levels. This suggests that staff scheduling could be optimized by reallocating resources away from lower-volume days toward peak days to improve overall operational efficiency.
+- Based on submission channels, the majority of complaints (XX%) were submitted via Web, indicating that online submission is the dominant intake channel. Notably, the spike observed between XX and XX was also primarily driven by Web-submitted complaints, suggesting that future workforce planning should prioritize scaling capacity within the Web support channel, rather than disproportionately allocating resources to channels such as phone or email support.
+- Among complaint issue categories, Disputes have consistently remained the most common issue type throughout the analyzed period.
+Finally, further investigation into the underlying drivers of dispute-related complaints could help reduce recurrence and lower the overall proportion of this category over time, further investigation into the underlying drivers of dispute-related complaints could help reduce recurrence and lower the overall proportion of this category over time.
 
 ## Final Conclusion
 -
