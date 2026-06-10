@@ -7,10 +7,10 @@ The objective is to analyze complaint patterns over time, channels, and categori
 - <a href="https://github.com/YZzz10/Credit-Card-Complaint-Dashboard/blob/main/Credit%20Card%20Data.xlsx">Credit Card Complaint Dataset</a>
 
 ## View Dashboard
-<a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/Book1_17788051728160/CreditCardComplaintsDashboard">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
+<a href="">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
 
 ## Dashboard
-<img width="1600" height="900" alt="Screenshot 2026-05-29 at 5 11 17 PM" src="https://github.com/user-attachments/assets/5483e4b6-2069-4f6c-bf74-66ec3226ed0f" />
+
 
 ## Project Insights
 - When analyzing complaints by day of the week, Thursday and Friday consistently show lower complaint volumes, with this lower-volume pattern observed across most time periods, while the remaining days maintain relatively higher complaint levels. This suggests that staff scheduling could be optimized by reallocating resources away from lower-volume days toward peak days to improve overall operational efficiency.
