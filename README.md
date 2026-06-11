@@ -7,7 +7,7 @@ haven't edited The objective is to analyze complaint patterns over time, channel
 - <a href="https://github.com/YZzz10/Credit-Card-Complaint-Dashboard/blob/main/Credit%20Card%20Data.xlsx">Credit Card Complaint Dataset</a>
 
 ## View Dashboard
-<a href="">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
+<a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/Book1_17788051728160/CreditCardComplaintsDashboard">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
 
 ## Dashboard
 <img width="1600" height="900" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/ae9b0bd8-4438-4ffd-963e-c9fae7ee4208" />
