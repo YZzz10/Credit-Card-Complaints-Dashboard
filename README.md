@@ -15,7 +15,6 @@ haven't edited The objective is to analyze complaint patterns over time, channel
 
 ## Project Insights
 - When analyzing complaints by day of the week, Thursday and Friday consistently show lower complaint volumes, with this lower-volume pattern observed across most time periods, while the remaining days maintain relatively higher complaint levels.
-
 - There was a noticeable spike in complaint volume around September 2020, accompanied by a slight decline in timely response rates.
 - Web remained the dominant submission channel over time. Notably, fluctuations in total complaint volume closely mirrored trends in Web-submitted complaints, indicating that overall volume changes were primarily driven by the Web channel, while other channels remained relatively stable and contributed minimally.
 - Among complaint issue categories, Disputes have consistently remained the most common issue type.
