@@ -1,7 +1,7 @@
-# Credit Card Complaints Dashboard
+# Credit Card Complaint Analytics Dashboard
 
 ## Project Objective
-To analyze complaint patterns and operational performance in order to improve resource allocation, response efficiency, and complaint management.
+Analyze complaint trends, customer issues, submission channels, and response performance in order to identify recurring patterns and support data-driven service improvements.
 
 ## Dataset Used
 - <a href="https://github.com/YZzz10/Credit-Card-Complaint-Dashboard/blob/main/Credit%20Card%20Data.xlsx">Credit Card Complaint Dataset</a>
